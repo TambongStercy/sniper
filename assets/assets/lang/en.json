@@ -259,5 +259,6 @@
   "share_link": "Share My Link",
   "not_partner": "You are not a partner",
   "momo_correspondent": "MOMO operator",
-  "currency": "Currency"
+  "currency": "Currency",
+  "user_not_found": "User not found"
 }
