@@ -272,5 +272,7 @@
   "end_date_before_start": "La date de fin ne peut pas être antérieure à la date de début",
   "select_date_range": "Sélectionnez la période",
   "start_date": "Date de début",
-  "end_date": "Date de fin"
+  "end_date": "Date de fin",
+  "no_more_transactions": "Aucune autre transaction",
+  "pending": "En attente"
 }

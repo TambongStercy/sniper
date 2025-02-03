@@ -272,5 +272,7 @@
   "end_date_before_start": "End date cannot be before start date",
   "select_date_range": "Select Date Range",
   "start_date": "Start Date",
-  "end_date": "End Date"
+  "end_date": "End Date",
+  "no_more_transactions": "No more transactions",
+  "pending": "Pending"
 }
