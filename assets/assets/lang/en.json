@@ -300,8 +300,10 @@
   "invalid_email_domain": "Invalid Email Domain",
   "use_valid_email_provider": "Please use a valid email from providers like Gmail, Outlook, Hotmail, Yahoo, etc.",
   "withdrawal_warning": "PLEASE READ CAREFULLY:",
-  "withdrawal_warning_message": "• All withdrawals will be sent ONLY to this mobile money number\n• Once set, this number CANNOT be changed in the app\n• To modify this number, you must contact admin directly via WhatsApp\n• Incorrect number may result in permanent loss of funds",
-  "critical_warning": "⚠️ CRITICAL WARNING ⚠️",
+  "withdrawal_warning_message": "• All withdrawals will be sent ONLY to this mobile money number\n• Once set, this number can still be changed in the app\n• To modify this number, go to your profile settings\n• Incorrect number may result in permanent loss of funds",
+  "warning": "WARNING",
   "without_momo_warning": "Without a mobile money number, you won't be able to receive withdrawals. Are you sure you want to cancel?",
-  "momo_not_set": "Mobile money number not set"
+  "momo_not_set": "Mobile money number not set",
+  "apology_title": "We Apologize",
+  "apology_message": "We sincerely apologize for the app being down for so long. We have resolved the issues and are committed to providing you with better service moving forward. Thank you for your patience and understanding.🙏"
 }
