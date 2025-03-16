@@ -290,7 +290,7 @@
   "verify_registration": "Vérifier l'inscription",
   "verify_login": "Vérifier la connexion",
   "verify_your_email": "Vérifier Votre Email",
-  "enter_valid_otp": "Veuillez entrer un code OTP valide",
+  "enter_valid_otp": "Veuillez entrer un code OTP valide à 6 caractères",
   "user_id_missing": "L'ID utilisateur est manquant",
   "verification_required": "Vérification Requise",
   "back_to_login": "Retour à la Connexion",

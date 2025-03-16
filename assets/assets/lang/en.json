@@ -290,7 +290,7 @@
   "verify_registration": "Verify Registration",
   "verify_login": "Verify Login",
   "verify_your_email": "Verify Your Email",
-  "enter_valid_otp": "Please enter a valid OTP code",
+  "enter_valid_otp": "Please enter a valid 6-character OTP code",
   "user_id_missing": "User ID is missing",
   "verification_required": "Verification Required",
   "back_to_login": "Back to Login",
