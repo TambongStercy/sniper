@@ -33,9 +33,10 @@
   <title>snipper_frontend</title>
   <link rel="manifest" href="manifest.json">
 
-  <!-- "2583522239" will be replaced by the value of the `--flutter-service-worker-version` argument provided to `flutter build`.
-       Only if you set the use-flutter- τότε strategy in your flutter_tools.yaml file. -->
-
+  <script>
+    // The value below is injected by flutter build, do not touch.
+    const serviceWorkerVersion = "188996125";
+  </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
@@ -43,9 +44,10 @@
 <body>
   <script>
     window.addEventListener('load', function (ev) {
-      FlutterLoader.load({
+      // Download main.dart.js
+      _flutter.loader.loadEntrypoint({
         serviceWorker: {
-          serviceWorkerVersion: ""2583522239"", // Use the template token
+          serviceWorkerVersion: serviceWorkerVersion,
         },
         onEntrypointLoaded: function (engineInitializer) {
           engineInitializer.initializeEngine().then(function (appRunner) {
