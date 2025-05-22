@@ -373,5 +373,14 @@
   "app_author_web": "Simb Technologies",
   "transaction_details": "Transaction Details",
   "api_reported_issue_despite_data": "The server reported an issue, even though some data was received. Please try again or contact support if the problem persists.",
-  "unknown_processing_error": "An unknown error occurred while processing your request."
+  "unknown_processing_error": "An unknown error occurred while processing your request.",
+  "invalid_vcf_data_received": "The contact data received from the server was not in the expected format. Please try again or contact support.",
+  "access_contacts_sheet": "Access to contacts sheet",
+  "withdraw_money": "Withdraw money",
+  "whatsapp_group_access": "Access to WhatsApp group",
+  "trading_training": "Trading training",
+  "marketing_training": "Marketing training",
+  "china_purchase_training": "China purchase training",
+  "public_speaking_training": "Public speaking training",
+  "marketplace_access": "Access to marketplace"
 }
