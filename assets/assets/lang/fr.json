@@ -382,5 +382,7 @@
   "marketing_training": "Formation en marketing",
   "china_purchase_training": "Formation achat en Chine",
   "public_speaking_training": "Formation en prise de parole en public",
-  "marketplace_access": "Accès à la marketplace"
+  "marketplace_access": "Accès à la marketplace",
+  "auth_error_please_login_again": "Erreur d'authentification. Veuillez vous déconnecter et vous reconnecter avant de souscrire.",
+  "invalid_plan_selected": "Plan d'abonnement sélectionné invalide. Veuillez réessayer."
 }
